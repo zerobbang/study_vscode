@@ -1,0 +1,62 @@
+div {
+    width : 400px;
+    height : 200px;
+    background-color: burlywood;
+
+}
+
+p {
+    font-size: medium;
+    font-style: italic;
+}
+
+div.weather_title {
+    background-color: teal;
+}
+
+div.furits {
+    background-color :chocolate;
+}
+
+#song {
+    width : 500px;
+    background-color: brown;
+}
+
+div.sing {
+    background-color :cadetblue;
+}
+
+span {
+    font-style: italic;
+}
+
+input:focus{
+    background-color: darksalmon;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 20px 10px;
+}
+
+table th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+table td {
+    width: 350px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+table .zero {
+    background: #efefef;
+}
